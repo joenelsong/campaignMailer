@@ -3,6 +3,11 @@
 This will allow you to easily make and share a link that will automatically open an email the users email client and start an email to the individuals and with the information of your choice.
 
 # How to use
+
+### Video
+
+
+### Step by step
 1. Fork the repo
 2. Edit the main.js file with the email data you'd like to use
 3. commit the changes
