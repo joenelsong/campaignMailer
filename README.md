@@ -1,4 +1,4 @@
-# CampaignMailer Description
+# Description
 
 This will allow you to easily make and share a link that will automatically open an email the users email client and start an email to the individuals and with the information of your choice.
 
